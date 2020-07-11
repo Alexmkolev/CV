@@ -1,0 +1,17 @@
+body {
+  background: powderblue;
+}
+
+hr {
+
+  border-color: grey;
+  border-width: 6px;
+  border-style: dotted none none none;
+  width: 8%;
+}
+h1 {
+  color: teal;
+}
+h3{
+  color: teal;
+}
